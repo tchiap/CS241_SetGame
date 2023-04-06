@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+c:\program files\java\jdk1.5.0_05\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.5
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+C:\Documents and Settings\Tom\My Documents\projects\school\Cs241\SetGame\doc
+-classpath
+C:\Program Files\BlueJ\lib\junit.jar
+C:\Documents and Settings\Tom\My Documents\projects\school\Cs241\SetGame\SetDeck.java
+<---- end of javadoc command ---->
+Loading source file C:\Documents and Settings\Tom\My Documents\projects\school\Cs241\SetGame\SetDeck.java...
+Constructing Javadoc information...
+C:\Documents and Settings\Tom\My Documents\projects\school\Cs241\SetGame\SetDeck.java:5: cannot find symbol
+symbol  : class SetCard
+location: class SetDeck
+    private SetCard [] deck; // Array of SetCard objects declaration
+            ^
+C:\Documents and Settings\Tom\My Documents\projects\school\Cs241\SetGame\SetDeck.java:47: cannot find symbol
+symbol  : class SetCard
+location: class SetDeck
+    public SetCard dealTopCard()
+           ^
+Standard Doclet version 1.5.0_05
+Building tree for all the packages and classes...
+Generating C:\Documents and Settings\Tom\My Documents\projects\school\Cs241\SetGame\doc\SetDeck.html...
+Generating C:\Documents and Settings\Tom\My Documents\projects\school\Cs241\SetGame\doc\package-frame.html...
+Generating C:\Documents and Settings\Tom\My Documents\projects\school\Cs241\SetGame\doc\package-summary.html...
+Generating C:\Documents and Settings\Tom\My Documents\projects\school\Cs241\SetGame\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Documents and Settings\Tom\My Documents\projects\school\Cs241\SetGame\doc\allclasses-frame.html...
+Generating C:\Documents and Settings\Tom\My Documents\projects\school\Cs241\SetGame\doc\allclasses-noframe.html...
+Generating C:\Documents and Settings\Tom\My Documents\projects\school\Cs241\SetGame\doc\index.html...
+Generating C:\Documents and Settings\Tom\My Documents\projects\school\Cs241\SetGame\doc\stylesheet.css...
+2 warnings
